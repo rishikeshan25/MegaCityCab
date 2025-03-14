@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mega City Cab - Home</title>
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <!-- External CSS File -->
+    <link rel="stylesheet" href="css/styles.css">
+    <style>
+        /* Booking Steps Section */
+        .booking-steps {
+            max-width: 1200px;
+            margin: 50px auto;
+            padding: 20px;
+            text-align: center;
+        }
+        .booking-steps h2 {
+            font-size: 2rem;
+            color: #5bc0be;
+            margin-bottom: 20px;
+        }
+        .steps-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+        }
+        .step-card {
+            background: #1c2541;
+            flex: 0 0 calc(25% - 20px); /* 4 per row */
+            border-radius: 10px;
+            padding: 20px;
+            text-align: center;
+            transition: transform 0.3s ease;
+            color: white;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+        }
+        .step-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 5px 15px rgba(91, 192, 190, 0.5);
+        }
+        .step-card i {
+            font-size: 40px;
+            color: #5bc0be;
+            margin-bottom: 10px;
+        }
+        .step-card h3 {
+            font-size: 1.2rem;
+            color: #5bc0be;
+            margin-bottom: 10px;
+        }
+        .step-card p {
+            font-size: 0.95rem;
+            color: #E0E0E0;
+            line-height: 1.4;
+        }
+
+        /* Responsive Adjustments */
+        @media (max-width: 992px) {
+            .step-card {
+                flex: 0 0 calc(50% - 20px); /* 2 per row */
+            }
+        }
+        @media (max-width: 600px) {
+            .step-card {
+                flex: 0 0 calc(100% - 20px); /* 1 per row */
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="logo">
+           <img src="IMG/logo.png" alt="Mega City Cab Logo">
+                       <span style="font-size: 24px; font-weight: bold; color: #5bc0be;">Mega City Cab</span>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html"><i class="fas fa-home"></i> Home</a></li>
+                <li><a href="ride.jsp"><i class="fas fa-car"></i> Ride</a></li>
+                <li><a href="about.jsp"><i class="fas fa-info-circle"></i> About Us</a></li>
+                <li><a href="login.jsp"><i class="fas fa-sign-in-alt"></i> Login</a></li>
+                <li><a href="register.jsp"><i class="fas fa-user-plus"></i> Register</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h1>Your Journey with Mega City Cab Starts Here</h1>
+        <p>Experience the safest and most comfortable rides with us.</p>
+        <a href="ride.jsp" class="cta-btn">Book a Ride Now</a>
+    </section>
+
+    <!-- Booking Steps Section -->
+    <section class="booking-steps">
+        <h2>🚖 How to Book a Ride</h2>
+        <div class="steps-container">
+            <!-- Step 1 -->
+            <div class="step-card">
+                <i class="fas fa-user-plus"></i>
+                <h3>Step 1: Register</h3>
+                <p>Sign up with your details to create a free account.</p>
+            </div>
+            <!-- Step 2 -->
+            <div class="step-card">
+                <i class="fas fa-map-marker-alt"></i>
+                <h3>Step 2: Enter Location</h3>
+                <p>Select your pickup & drop-off locations easily.</p>
+            </div>
+            <!-- Step 3 -->
+            <div class="step-card">
+                <i class="fas fa-car-side"></i>
+                <h3>Step 3: Choose Your Ride</h3>
+                <p>Pick a vehicle that suits your needs and budget.</p>
+            </div>
+            <!-- Step 4 -->
+            <div class="step-card">
+                <i class="fas fa-money-bill-wave"></i>
+                <h3>Step 4: Confirm & Pay</h3>
+                <p>Confirm your ride and pay securely online or in cash.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer style="background-color: #1c2541; text-align: center; padding: 20px; color: #5bc0be; font-weight: bold;">
+        <!-- Social Media Icons -->
+        <div style="margin-bottom: 10px;">
+            <a href="#" style="color: #5bc0be; margin: 0 10px;"><i class="fab fa-facebook-f"></i></a>
+            <a href="#" style="color: #5bc0be; margin: 0 10px;"><i class="fab fa-twitter"></i></a>
+            <a href="#" style="color: #5bc0be; margin: 0 10px;"><i class="fab fa-instagram"></i></a>
+            <a href="#" style="color: #5bc0be; margin: 0 10px;"><i class="fab fa-linkedin"></i></a>
+        </div>
+
+        <!-- Contact Info -->
+        <p>📍 123, Main Street, Colombo, Sri Lanka</p>
+        <p>📞 +94 71 234 5678 | ✉️ support@megacitycab.com</p>
+
+        <p>&copy; 2025 Mega City Cab. All rights reserved.</p>
+    </footer>
+</body>
+</html>

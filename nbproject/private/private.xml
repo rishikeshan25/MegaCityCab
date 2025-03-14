@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCityCab/web/login.jsp</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCityCab/src/java/com/login/DeleteDriverServlet.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCityCab/src/java/com/login/LoginServlet.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCityCab/src/java/com/login/UserConfirmRideServlet.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCityCab/src/java/com/login/AdminLogoutServlet.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCityCab/src/java/com/login/UpdateProfileServlet.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCityCab/src/java/com/login/AddVehicleServlet.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCityCab/web/ride.jsp</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCityCab/web/css/styles.css</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCityCab/web/rideBill.jsp</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCityCab/src/java/com/login/UpdateRideStatusServlet.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCityCab/src/java/com/login/DownloadBillServlet.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCityCab/src/java/com/login/UserLogoutServlet.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCityCab/src/java/com/login/AdminLoginServlet.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCityCab/web/IMG/cab_background.jpg</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCityCab/web/adminDashboard.jsp</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCityCab/web/header.jsp</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCityCab/web/adminLogin.jsp</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCityCab/src/java/com/login/UpdateDriverServlet.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCityCab/src/java/com/login/AdminApproveServlet.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCityCab/web/dashboard.jsp</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCityCab/src/java/com/login/RegisterServlet.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCityCab/web/register.jsp</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCityCab/src/java/com/login/BookingServlet.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCityCab/src/java/com/example/util/DatabaseUtility.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCityCab/src/java/com/login/AdminBookingServlet.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCityCab/web/footer.jsp</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCityCab/src/java/com/login/UpdateVehicleServlet.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCityCab/src/java/com/login/DeleteVehicleServlet.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCityCab/web/index.html</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCityCab/web/about.jsp</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCityCab/web/wait.jsp</file>
+        </group>
+    </open-files>
+</project-private>
